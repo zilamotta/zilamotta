@@ -2,7 +2,8 @@
 
 ## 🌟 About Me
 
-I'm dedicated to connecting people worldwide through innovative marketing strategies and compelling storytelling. As a Social Media Specialist and Growth Marketer, I create engaging content that resonates across platforms, leveraging data analysis, SEO best practices, and content creation. I also have a strong focus on working with technology companies and developer communities globally, bridging the gap between tech and its users.
+As a Senior Content Strategist, Front End Developer, and Technical SEO expert, I build user-focused digital products. I combine clear technical writing, efficient code, and search optimization to create websites that work well and explain complex ideas simply. My goal is to make tech easier to understand and use for developers and users alike.
+
 
 ## 🔧 Skills & Tools
 
