@@ -34,8 +34,9 @@ As a Senior Content Strategist, Front End Developer, and Technical SEO expert, I
 
 ## 🌐 Languages
 
-- ![English](https://img.shields.io/badge/-English-blue?style=flat&logo=appveyor)
-- ![Spanish](https://img.shields.io/badge/-Spanish-red?style=flat&logo=appveyor)
-- ![French](https://img.shields.io/badge/-French-green?style=flat&logo=appveyor)
+- HTML
+- CSS
+- JavaScript
+- React
 
 ---
