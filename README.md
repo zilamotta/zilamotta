@@ -28,9 +28,9 @@ As a Senior Content Strategist, Front End Developer, and Technical SEO expert, I
 
 ## 📫 How to Reach Me
 
-- **Email:** (mailto:zilamotta@gmail.com)
+- **Email:** (zilamotta@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/zila-motta//)
-- **Twitter:** [@your-twitter-handle](https://x.com/zilamotta)
+- **Twitter:** [@zilamotta](https://x.com/zilamotta)
 
 ## 🌐 Languages
 
